@@ -11,7 +11,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@nteract/actions": "^2.5.0",
+    "@nteract/actions": "git+https://github.com/realtsiry/nteract-actions.git",
     "@nteract/commutable": "^7.1.1",
     "@nteract/core": "^10.4.0",
     "@nteract/data-explorer": "^7.0.0",
